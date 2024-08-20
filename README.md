@@ -74,10 +74,10 @@ Open http://localhost:3000 with your browser to see the result.
     
 ## Feedback
 
-If you have any feedback, please reach out to us at ruholahn2@gmail.com
+If you have any feedback, please reach out to us at saurabhccs10@gmail.com
 
 
 ## Author
 
-- [@no2ehi](https://www.github.com/no2ehi)
+- [@saurabh2226](https://github.com/saurabh2226)
 
